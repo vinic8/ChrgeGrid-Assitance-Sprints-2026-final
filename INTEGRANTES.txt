@@ -1,5 +1,5 @@
 EV Challenge GoodWe — Sprint 04 · Prompt and Artificial Intelligence · FIAP 2026.2
-Repositório: https://github.com/vinic8/ChrgeGrid-Assitance-Sprints-2026
+Repositório: https://github.com/vinic8/ChrgeGrid-Assitance-Sprints-2026-final
 
 Nome completo                         RM          
 ------------------------------------- ----------- 

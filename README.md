@@ -179,7 +179,7 @@ arquivo.
 Opção 2: com o Git instalado:
 
 ```bash
-git clone https://github.com/vinic8/ChrgeGrid-Assitance-Sprints-2026.git
+git clone https://github.com/vinic8/ChrgeGrid-Assitance-Sprints-2026-final.git
 ```
 
 Em seguida, abra um terminal dentro da pasta do projeto (a pasta que contém o
